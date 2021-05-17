@@ -1,0 +1,8 @@
+<resources>
+    <string name="name">Name</string>
+    <string name="number">Mobile Number</string>
+    <string name="gs">Group Size</string>
+    <string name="smoke">Non-smoking zone</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
